@@ -32,4 +32,4 @@
 I enjoy solving puzzles and exploring new technologies!
 
 # My Project
-[![My Project 1](https://img.shields.io/badge/My%20Project-View%20It-blue)](https://studyhubss.vercel.app/)
+[![My Project 1](https://img.shields.io/badge/My%30Project 1-View%30It-blue)](https://studyhubss.vercel.app/)
