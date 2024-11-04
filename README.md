@@ -6,6 +6,8 @@
     <img src="hello.gif" alt="Welcome Image" style="border-radius: 15px; max-width: 60%; height: auto;">
 </p>
 
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SsSps&show_icons=true&theme=radical)
 ---
 
 ### 👀 I’m interested in:
