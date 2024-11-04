@@ -25,7 +25,7 @@
 - Email: [click](mailto:surya01785@gmail.com)
 - LinkedIn: [...](https://www.linkedin.com/in)
 
-## 😄 Pronouns:
+### 😄 Pronouns:
 - He/Him
 
 ## ⚡ Fun fact:
