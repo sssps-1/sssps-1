@@ -31,7 +31,7 @@
 ### 📫 How to reach me:
 <p style="font-size: 18px; line-height: 1.5;">
     - 📧 Email: <a href="mailto:surya01785@gmail.com">click</a><br>
-    - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in)
+    - 🔗 LinkedIn: [](https://www.linkedin.com/in)
 </p>
 
 ---
