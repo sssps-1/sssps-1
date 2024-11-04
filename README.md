@@ -31,5 +31,5 @@
 ## ⚡ Fun fact:
 I enjoy solving puzzles and exploring new technologies!
 
-# My Project
+## My Project
 [![My Project 1](https://img.shields.io/badge/My%20Project%201-View%20It-blue)](https://studyhubss.vercel.app/)
