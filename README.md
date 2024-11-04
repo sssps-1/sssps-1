@@ -51,5 +51,5 @@ I enjoy solving puzzles and exploring new technologies!
     </a>
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssps-1&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssps-1&show_icons=true&theme=radical)
 ---
