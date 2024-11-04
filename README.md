@@ -1,6 +1,6 @@
 # 👋 Hi, I’m SsSps
 
-![](me.gif)
+![](hello.gif)
 
 ## 👀 I’m interested in:
 - Software development
