@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sssps-1
+# 👋 Hi, I’m SsSps
 
 ![](me.gif)
 
@@ -20,8 +20,8 @@
 - Development projects
 
 ## 📫 How to reach me:
-- Email: [](mailto:surya01785@gmail.com)
-- LinkedIn: [](https://www.linkedin.com/in)
+- Email: [click](mailto:surya01785@gmail.com)
+- LinkedIn: [...](https://www.linkedin.com/in)
 
 ## 😄 Pronouns:
 - He/Him
