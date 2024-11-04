@@ -51,5 +51,14 @@ I enjoy solving puzzles and exploring new technologies!
     </a>
 </p>
 
+## 🌟 GitHub Stats
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssps-1&show_icons=true&theme=radical&hide_border=true)
+
+### About Me:
+- **CSE Student** at Lucknow
+- **Languages**: C++, Kotlin
+- **Interests**: Software Development, Open Source
+
+---
 ---
