@@ -1,6 +1,6 @@
 # 🌟 Hi 👋 Welcome to my GitHub 
 
-## I’m **SsSps**
+## I’m **Suryadeep Singh**
 
 <p align="center">
     <img src="hello.gif" alt="Welcome Image" style="border-radius: 15px; max-width: 60%; height: auto;">
