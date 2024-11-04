@@ -42,9 +42,6 @@
 ## ⚡ Fun fact:
 I enjoy solving puzzles and exploring new technologies!
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssps-1&show_icons=true&theme=radical&hide_border=true)
-
----
  
 ## My Project
 <p align="center">
@@ -53,5 +50,6 @@ I enjoy solving puzzles and exploring new technologies!
     </a>
 </p>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssps-1&show_icons=true&theme=radical&hide_border=true)
 
 ---
