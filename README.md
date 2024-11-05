@@ -30,9 +30,16 @@
 
 ### 📫 How to reach me:
 <p style="font-size: 18px; line-height: 1.5;">
-    - 📧 Email: <a href="mailto:surya01785@gmail.com">click</a><br>
-    - 🔗 LinkedIn: [](https://www.linkedin.com/in)
-</p>
+    - 📧 Email: <a href="mailto:surya01785@gmail.com"> 📧click</a>
+
+<div style="display: flex; align-items: center;">
+        <a href="https://t.me/sscselu">
+            <img src="cyborg-tranparent-background.gif" alt="Cyborg Image" />
+        </a>
+        <a class="header-badge" target="_blank" href="https://t.me/sscselu">
+            <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=social&logo=telegram" alt="Join Telegram Chat">
+        </a>
+    </div>
 
 ---
 
