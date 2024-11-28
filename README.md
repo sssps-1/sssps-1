@@ -36,7 +36,7 @@
         <a href="https://t.me/sscselu">
             <img src="cyborg-tranparent-background.gif" alt="Cyborg Image" />
         </a>
-        <a class="header-badge" target="_blank" href="https://t.me/sscselu">
+        <a class="header-badge" target="_blank" href="https://t.me/SudoshiC">
             <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=social&logo=telegram" alt="Join Telegram Chat">
         </a>
     </div>
