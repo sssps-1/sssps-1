@@ -30,7 +30,7 @@
 
 ### 📫 How to reach me:
 <p style="font-size: 18px; line-height: 1.5;">
-    - 📧 Email: <a href="mailto:surya01785@gmail.com"> 📧click</a>
+    - 📧<a href="mailto:surya01785@gmail.com">click</a>
 
 <div style="display: flex; align-items: center;">
         <a href="https://t.me/sscselu">
